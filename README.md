@@ -1,10 +1,12 @@
-### CHOW TOWN
-A food ordering interface group project.
+# CHOW TOWN
+
+A food ordering website built which focuses heavily in UI/UX. It implements innovative ideas and design structures to ensure better handling and navigation for all sorts of users.
+
 View the project at www.joshuadueck.com/ordering-system/
 
-#### Contributors:
-- Joshua Dueck
-- Andy Kim
-- Abu Yasin Sabik
-- Melvin Philemon
-- Yalun Lyu
+## Contributors:
+* Abu Yasin Sabik
+* Joshua Dueck
+* Andy Kim
+* Melvin Philemon
+* Yalun Lyu
